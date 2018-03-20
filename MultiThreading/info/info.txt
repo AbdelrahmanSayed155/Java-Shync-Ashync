@@ -1,0 +1,42 @@
+
+multithreding is executed multi task in the same time 
+ is lightWight  and every task have pID 
+ 
+ 
+ -- multitasking :  alot of process as work in word , mp3 , internet , move mouse , open browser
+ 
+ -- multiprocess : process each one of them have taskings
+     one process have it's memory can't any process access
+     it , every one have multithreding 
+ 
+ --  multithreading : have tasking have shared memory 
+    when i write in libraoffice it fix word correct or not 
+    so every process have multithread for execute multitasking
+    and allthreads under same process have one pID
+    
+    threads are very light than process 
+    it take altitle memory 
+    it save time it execute diff tasks in the same time
+    every thread is standalone 
+    process is heavy have id  
+    swithing between process is cost proc
+    becuase it swap memory 
+ ----- life Cycle of threading 
+ 
+ ----  multiprocess : mean alot of process work ashynch and every procces have multi tasks
+ 
+ ----- java mult
+  for multiThreading  extends Thread class
+                      implements Runnable interface 
+                      
+/// constructors thread 
+Thread()
+Thread(string)
+Thread(Runnable r)                      
+Thread(Runnable r , string s) 
+
+
+/// must using start method to make this object thread 
+// when using obj.run it using as object not thread
+
+

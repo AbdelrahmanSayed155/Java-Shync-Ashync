@@ -1,0 +1,10 @@
+
+
+thread a using obj1
+thread b also using obj1
+threre is deadlock using that as solution 
+
+
+
+
+

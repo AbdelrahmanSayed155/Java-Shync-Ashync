@@ -1,0 +1,14 @@
+inter thread communication or cooperation
+help us make communication of threads
+can allow thrad to work and stop other thread 
+
+-- next function have responsability of thread comunication 
+wait() make thrad stop make lock 
+notify()   make one thread to work
+notifyAll() notify all make all threads work
+
+sleep 
+in thread class ,late time for working thread 
+
+wait 
+in obj class , lock thread 

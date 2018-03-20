@@ -1,0 +1,5 @@
+
+ meaning cut process from working in some process
+ if thread sleep or waiting then make it work it inetrrupt
+ 
+

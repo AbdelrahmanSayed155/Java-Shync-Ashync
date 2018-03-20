@@ -1,0 +1,11 @@
+
+prevent multiThread 
+force one thread access code 
+
+1-mutual execlusive 
+1.1 synchronization method 
+1.2 synchronization block
+1.3 static synchronization 
+
+2-cooperation(inter-thread communication)
+

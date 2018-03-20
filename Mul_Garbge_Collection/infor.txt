@@ -1,0 +1,10 @@
+ 
+ for delete unused refrences 
+  work outomatically 
+  increase performance of memory 
+ can you use finalize function for delete obj unused it function excuted after objectdeleted
+ can you use gc() it force java garbage collector 
+ deamon thread it execute garbuge collector
+
+
+
